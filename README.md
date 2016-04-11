@@ -1,0 +1,2 @@
+# moocJs
+just some exercises

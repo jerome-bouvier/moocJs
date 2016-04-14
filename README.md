@@ -1,2 +1,2 @@
 # moocJs
-just some exercises
+some stuff
